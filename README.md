@@ -1,2 +1,2 @@
 # hello-world
-I like everythung.
+I like everything.
